@@ -42,7 +42,7 @@ const routes = [
   //   ]
   // },
   {
-    path: '/form/:id/:rty',
+    path: '/form',
     name: 'form',
     component: FormComponent,
     props: true
